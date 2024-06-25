@@ -6,4 +6,4 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: <https://github.com/xphstos/fe-tip-calculator-app>
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: <https://fe-tip-calculator-app-weld.vercel.app/>
