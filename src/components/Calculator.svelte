@@ -21,12 +21,12 @@
 	let state: {
 		bill: number;
 		tip: number;
-		customTip: number;
+		customTip: number | undefined;
 		people: number;
 	} = {
 		bill: 0,
 		tip: 0,
-		customTip: 0,
+		customTip: undefined,
 		people: 0
 	};
 	let errors: Partial<Record<FormSchemaKeys, string[]>> = {};
